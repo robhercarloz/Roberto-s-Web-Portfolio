@@ -67,7 +67,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\CSS\aos.css" />
+    <Content Include="Content\CSS\bootstrap.min.css" />
+    <Content Include="Content\CSS\boxicons.min.css" />
+    <Content Include="Content\CSS\icofont.min.css" />
+    <Content Include="Content\CSS\owl.carousel.min.css" />
+    <Content Include="Content\CSS\style.css" />
+    <Content Include="Content\CSS\venobox.css" />
+    <Content Include="Content\Images\apple-touch-icon.png" />
+    <Content Include="Content\Images\favicon.png" />
+    <Content Include="Content\Images\Roberto Hernandez.jpg" />
     <Content Include="index.html" />
+    <Content Include="Scripts\aos.js" />
+    <Content Include="Scripts\bootstrap.bundle.min.js" />
+    <Content Include="Scripts\counterup.min.js" />
+    <Content Include="Scripts\isotope.pkgd.min.js" />
+    <Content Include="Scripts\jquery.easing.min.js" />
+    <Content Include="Scripts\jquery.min.js" />
+    <Content Include="Scripts\jquery.waypoints.min.js" />
+    <Content Include="Scripts\main.js" />
+    <Content Include="Scripts\owl.carousel.min.js" />
+    <Content Include="Scripts\typed.min.js" />
+    <Content Include="Scripts\validate.js" />
+    <Content Include="Scripts\venobox.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -82,10 +104,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Content\" />
-    <Folder Include="Scripts\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
