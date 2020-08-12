@@ -75,6 +75,7 @@
     <Content Include="Content\CSS\style.css" />
     <Content Include="Content\CSS\venobox.css" />
     <Content Include="Content\Images\apple-touch-icon.png" />
+    <Content Include="Content\Images\bkWall.jpg" />
     <Content Include="Content\Images\favicon.png" />
     <Content Include="Content\Images\Roberto Hernandez.jpg" />
     <Content Include="index.html" />
