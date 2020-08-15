@@ -70,6 +70,7 @@
     <Content Include="Content\CSS\aos.css" />
     <Content Include="Content\CSS\bootstrap.min.css" />
     <Content Include="Content\CSS\boxicons.min.css" />
+    <Content Include="Content\CSS\fontawesome.css" />
     <Content Include="Content\CSS\icofont.min.css" />
     <Content Include="Content\CSS\owl.carousel.min.css" />
     <Content Include="Content\CSS\style.css" />
@@ -97,6 +98,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Fonts\boxicons.ttf" />
+    <Content Include="Content\Fonts\boxicons.woff" />
+    <Content Include="Content\Fonts\boxicons.woff2" />
+    <Content Include="Content\Fonts\icofont.woff" />
+    <Content Include="Content\Fonts\icofont.woff2" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
