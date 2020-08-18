@@ -79,6 +79,8 @@
     <Content Include="Content\Images\bkWall.jpg" />
     <Content Include="Content\Images\favicon.png" />
     <Content Include="Content\Images\Roberto Hernandez.jpg" />
+    <Content Include="Content\Images\RobsBlog.png" />
+    <Content Include="Content\Pages\BlogDetails.html" />
     <Content Include="index.html" />
     <Content Include="Scripts\aos.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
